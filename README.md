@@ -30,3 +30,4 @@ Double-click the Restart Services shortcut.
 Run as administrator for proper service control. Test on non-critical VMs first.
 
 Have fun! (Recommended for MacOS Virtual Machines), and I don't really know if this supports VirtualBox.
+<img width="86" height="191" alt="{59AA8C2A-6DFD-4921-AB28-97835E0976BB}" src="https://github.com/user-attachments/assets/347fdf82-d060-40db-84be-434cc97d2020" />
